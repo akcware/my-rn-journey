@@ -17,5 +17,4 @@ Here is a more technical description of the app:
 The app is built using React Native, a framework for building native mobile applications using JavaScript.
 The app uses Redux to manage its state. Redux is a state management library that helps to keep track of the app's state in a centralized location.
 The app is open source and available on GitHub.
-I hope this is more formal. Let me know if you have any other questions.
 
